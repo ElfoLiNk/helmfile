@@ -10,12 +10,12 @@
   version = "v1.4.1"
 
 [[projects]]
-  digest = "1:46a054a232ea2b7f0a35398d682b433d26ba9975fce9197b1784824402059f5b"
+  digest = "1:e6cdc43eba27f9d29f0d6497414597e45ea812c2e51ffd42a1f8f1bb0c1a9d98"
   name = "github.com/Masterminds/sprig"
   packages = ["."]
   pruneopts = "UT"
-  revision = "6b2a58267f6a8b1dc8e2eb5519b984008fa85e8c"
-  version = "v2.15.0"
+  revision = "544a9b1d90f323f6509491b389714fbbd126bee3"
+  version = "v2.17.1"
 
 [[projects]]
   digest = "1:8f5416c7f59da8600725ae1ff00a99af1da8b04c211ae6f3c8f8bcab0164f650"
