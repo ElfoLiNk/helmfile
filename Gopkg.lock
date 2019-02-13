@@ -2,6 +2,14 @@
 
 
 [[projects]]
+  digest = "1:3b10c6fd33854dc41de2cf78b7bae105da94c2789b6fa5b9ac9e593ea43484ac"
+  name = "github.com/Masterminds/goutils"
+  packages = ["."]
+  pruneopts = "UT"
+  revision = "41ac8693c5c10a92ea1ff5ac3a7f95646f6123b0"
+  version = "v1.1.0"
+
+[[projects]]
   digest = "1:d9141c149f722217d35834972878499a4781fe5ae46a152e8ac843ff15efc80f"
   name = "github.com/Masterminds/semver"
   packages = ["."]
@@ -10,20 +18,12 @@
   version = "v1.4.1"
 
 [[projects]]
-  digest = "1:46a054a232ea2b7f0a35398d682b433d26ba9975fce9197b1784824402059f5b"
+  digest = "1:d8cbb69f08bd6cdf2e5d36b4784139920121943e8a3e5661431052f8e785f58b"
   name = "github.com/Masterminds/sprig"
   packages = ["."]
   pruneopts = "UT"
-  revision = "6b2a58267f6a8b1dc8e2eb5519b984008fa85e8c"
-  version = "v2.15.0"
-
-[[projects]]
-  digest = "1:8f5416c7f59da8600725ae1ff00a99af1da8b04c211ae6f3c8f8bcab0164f650"
-  name = "github.com/aokoli/goutils"
-  packages = ["."]
-  pruneopts = "UT"
-  revision = "3391d3790d23d03408670993e957e8f408993c34"
-  version = "v1.0.1"
+  revision = "b1fe2752acccf8c3d7f8a1e7c75c7ae7d83a1975"
+  version = "v2.18.0"
 
 [[projects]]
   digest = "1:8f8811f9be822914c3a25c6a071e93beb4c805d7b026cbf298bc577bc1cc945b"
