@@ -1,6 +1,6 @@
 [[constraint]]
   name = "github.com/Masterminds/sprig"
-  version = "2.15.0"
+  version = "2.21.0"
 
 [[constraint]]
   branch = "v2"
