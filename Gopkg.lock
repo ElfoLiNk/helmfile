@@ -42,12 +42,12 @@
   version = "v1.0.0"
 
 [[projects]]
-  digest = "1:8eb1de8112c9924d59bf1d3e5c26f5eaa2bfc2a5fcbb92dc1c2e4546d695f277"
+  digest = "1:eba10af56a904e7d797ccbdca4a6fae4029537b0118b6582f9f93e025b86af2a"
   name = "github.com/imdario/mergo"
   packages = ["."]
   pruneopts = "UT"
-  revision = "9f23e2d6bd2a77f959b2bf6acdbefd708a83a4a4"
-  version = "v0.3.6"
+  revision = "cd55aeac72a19c6d5826061d5125d72b252a12eb"
+  version = "v0.3.11"
 
 [[projects]]
   digest = "1:55d0f7127962b0657acfd69650634057b3a08958226feee1b64a379666bb915e"
